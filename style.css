@@ -1,0 +1,109 @@
+body.home {
+	background-image: url("background2.jpg");
+	 no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Satisfy', cursive;
+}
+
+.btn{
+	padding:15px 32px;
+	text-align: center;
+	font-size: 16px;
+	position: absolute;
+	top:20%;
+	left:44%;
+}
+
+.question{
+	font-family: 'CALIBRI';
+	top:10%;
+	position:absolute;
+	left:30%;
+	color:white;
+}
+
+.question2{
+	font-family: 'CALIBRI';
+	top:30%;
+	position:absolute;
+	left:30%;
+	color:white;
+}
+.question3{
+	font-family: 'CALIBRI';
+	top:50%;
+	position:absolute;
+	left:30%;
+	color:white;
+}
+.question4{
+	font-family: 'CALIBRI';
+	top:70%;
+	position:absolute;
+	left:30%;
+	color:white;
+}
+.question5{
+	font-family: 'CALIBRI';
+	top:90%;
+	position:absolute;
+	left:30%;
+	color:white;
+}
+.question6{
+	font-family: 'CALIBRI';
+	top:110%%;
+	position:absolute;
+	left:30%;
+	color:white;
+}
+.question7{
+	font-family: 'CALIBRI';
+	top:130%;
+	position:absolute;
+	left:30%;
+	color:white;
+}
+.question8{
+	font-family: 'CALIBRI';
+	top:150%;
+	position:absolute;
+	left:30%;
+	color:white;
+}
+.question9{
+	font-family: 'CALIBRI';
+	top:170%;
+	position:absolute;
+	left:0%;
+	color:white;
+}
+.question10{
+	font-family: 'CALIBRI';
+	top:280%;
+	position:absolute;
+	left:0%;
+	color:white;
+}
+.btn-submit{
+	padding:15px 32px;
+	text-align: center;
+	font-size: 16px;
+	position: absolute;
+	top:400%;
+	left:44%;
+}
+
+
+input[type="radio"] {
+  margin-top: -1px;
+  vertical-align: middle;
+}
