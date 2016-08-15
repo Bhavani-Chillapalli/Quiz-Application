@@ -1,0 +1,85 @@
+[
+	{
+		"question" : "What did Chandler tell Janice his address was going to be in Yemen?",
+			"answers"   : [
+				{ "id" : 0,"text" : "14,Yemen Road,Yemen." },
+				{ "id" : 1,"text" : "15,Yemen Road,Yemen." },
+				{ "id" : 2,"text" : "16,Yemen Road,Yemen." },
+				{ "id" : 3,"text" : "13,Yemen Road,Yemen." }
+			],
+			"correct"  : 1
+
+	},
+		{
+		"question" : "Which of Joey's sisters did Chandler fool around with?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Mary Ellen" },
+			{"id"  : 1, "text" : "Sandra" },
+			{"id"  : 2, "text" : "Mary Terresse" },
+			{"id"  : 3, "text" : "Mary Angela" }
+		],
+		"correct"  : 3
+	},
+	{
+		"question" : "Ross is a professor at which University?",
+		"answers"  : [
+			{"id"  : 0, "text" : "NYU"},
+			{"id"  : 1, "text" : "Columbia"},
+			{"id"  : 2, "text" : "He is not a professor"},
+			{"id"  : 3, "text" : "City University Of New York"}
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "Who said the following:'The more i drink, the less there is for the kids to drink'",
+		"answers"  : [
+			{"id"  : 0, "text" : "Rachel"},
+			{"id"  : 1, "text" : "Monica"},
+			{"id"  : 2, "text" : "Phoebe"},
+			{"id"  : 3, "text" : "Ross"},
+			{"id"  : 4, "text" : "Chandler"},
+			{"id"  : 5, "text" : "Joey"}
+		],
+		"correct"  : 2,
+		"feedback" : "Phoebe says it in the episode with the Auction. Joey makes a bid for a boat because he doesnt know what an auction is."
+	},
+	{
+		"question" : "Ross dates a College professor called Charlie.",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "Which of the FRIENDS,fell in love with a gay dancer?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Pheobe"},
+			{"id"  : 1, "text" : "Ross"},
+			{"id"  : 2, "text" : "Rachel"},
+			{"id"  : 3, "text" : "Monica"}
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "What was Barry's profession?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Dentist"},
+			{"id"  : 1, "text" : "Orthodontist"},
+			{"id"  : 2, "text" : "Opthalmologist"},
+			{"id"  : 3, "text" : "Physician"}
+		],
+		"correct"  : 1
+	},
+	{
+		"question" : "What did Rachel put in the English triffle at Thanksgiving dinner?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Beef"},
+			{"id"  : 1, "text" : "Pork"},
+			{"id"  : 2, "text" : "Chicken"},
+			{"id"  : 3, "text" : "Fish"}
+		],
+		"correct"  : 0
+	}
+
+]
